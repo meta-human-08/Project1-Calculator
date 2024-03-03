@@ -65,6 +65,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact 📫
 
-Twitter - [@aspireve]([https://twitter.com/your_twitter](https://twitter.com/aspireve))
+Twitter - [@aspireve](https://twitter.com/your_twitter)
 
 Project Link: [Hosted Project Link](https://bluelearn-aspireve.github.io/Project1-Calculator/)
