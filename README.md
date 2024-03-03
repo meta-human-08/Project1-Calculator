@@ -40,6 +40,7 @@ Enjoy exploring and modifying the project as you wish!
 ```
 project-name/
 │
+├── assets        # All the assets required for the program
 ├── index.html    # Main HTML file
 ├── script.js     # JavaScript logic
 └── style.css     # CSS styles
